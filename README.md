@@ -1,2 +1,2 @@
 # py24_experimento
- experiemtno clase pgaa2324
+ experimento clase pgaa2324
